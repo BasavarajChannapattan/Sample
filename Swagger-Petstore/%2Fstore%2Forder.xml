@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:resource name="/store/order" path="/store/order" id="1300acac-27fd-4c9c-8c81-f737fc5d7eb8" xmlns:con="http://eviware.com/soapui/config"><con:settings id="5ae81d2b-7875-4ddc-928f-9e6745f976eb"><con:setting id="1300acac-27fd-4c9c-8c81-f737fc5d7eb8fileName">%2Fstore%2Forder</con:setting></con:settings><con:parameters/><con:method name="placeOrder" id="232bb20d-bce2-43cd-b6e9-b713b3960b01" method="POST"><con:description>&#13;
+<con:resource name="/store/order" path="/store/order" id="1300acac-27fd-4c9c-8c81-f737fc5d7eb8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config"><con:settings id="5ae81d2b-7875-4ddc-928f-9e6745f976eb"><con:setting id="1300acac-27fd-4c9c-8c81-f737fc5d7eb8fileName">%2Fstore%2Forder</con:setting></con:settings><con:parameters/><con:method name="placeOrder" id="232bb20d-bce2-43cd-b6e9-b713b3960b01" method="POST"><con:description>&#13;
 Place an order for a pet</con:description><con:settings/><con:parameters/><con:representation type="REQUEST"><con:mediaType>application/json</con:mediaType><con:params/><con:sampleContent>{&#13;
   "id" : 0,&#13;
   "petId" : 0,&#13;
