@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="b671c2a4-2e35-44ae-80b6-b22fb2c1795f" name="DataDrivenDemo" xmlns:con="http://eviware.com/soapui/config"><con:settings id="ce8c5408-4e32-48c3-a79f-a697f590cf6e"><con:setting id="b671c2a4-2e35-44ae-80b6-b22fb2c1795ffileName">DataDrivenDemo</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
